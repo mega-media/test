@@ -1,5 +1,5 @@
 <?php
-namespace Louis;
+namespace App;
 class Test 
 {
     public function test()

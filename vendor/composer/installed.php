@@ -1,24 +1,24 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
-    'name' => 'sin/test',
+    'reference' => '6d3189ac0867b712db96b6b97cfa42c991d00236',
+    'name' => 'singood/test',
   ),
   'versions' => 
   array (
-    'sin/test' => 
+    'singood/test' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '6d3189ac0867b712db96b6b97cfa42c991d00236',
     ),
   ),
 );
