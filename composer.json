@@ -1,0 +1,21 @@
+{
+    "name": "sin/test",
+    "description": "測試用",
+    "type": "library",
+    "require": {
+        "php": "^7.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sin",
+            "email": "sin@gmail.com.tw"
+        }
+    ],
+    "minimum-stability": "dev",
+"autoload": {
+    "psr-4": {
+        "Louis\\": "src/test"
+    }
+}
+}
